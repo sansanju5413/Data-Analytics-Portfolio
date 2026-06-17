@@ -42,8 +42,18 @@ Interactive dashboards and business intelligence reports.
 
 Data visualization and storytelling dashboards.
 
+## 1. Hotel Booking Analytics Dashboard
+Interactive Tableau Dashboard
+KPI Analysis
+Country-wise Booking Analysis
+Cancellation Analysis
+Data Visualization
+
+Repository:
+https://github.com/sansanju5413/Tableau-Projects
+
 ## Contact
 
 GitHub: https://github.com/sansanju5413
 
-LinkedIn: (Add your LinkedIn profile link here)
+LinkedIn: [LinkedIn profile link here](https://www.linkedin.com/in/sanju-h-s/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6cKJ6oHHTke0%2BdiYsLbFOg%3D%3D)
