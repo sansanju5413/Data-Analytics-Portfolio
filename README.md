@@ -20,17 +20,8 @@ I am an aspiring Data Analyst passionate about transforming raw data into meanin
 Projects focused on data cleaning, querying, and analysis using SQL.
 
 ## SQL Projects
-
-### Hotel Booking Analysis
-- Data Cleaning
-- Exploratory Data Analysis
-- Booking Cancellation Analysis
-- Customer Behavior Analysis
-
 Repository:
 https://github.com/sansanju5413/SQL-Projects
-
-## SQL Projects
 
 ### 🌍 World Layoffs Data Cleaning & Analysis
 - Cleaned and standardized a global layoffs dataset using SQL.
