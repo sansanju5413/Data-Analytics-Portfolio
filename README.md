@@ -30,6 +30,26 @@ Projects focused on data cleaning, querying, and analysis using SQL.
 Repository:
 https://github.com/sansanju5413/SQL-Projects
 
+## SQL Projects
+
+### 🌍 World Layoffs Data Cleaning & Analysis
+- Cleaned and standardized a global layoffs dataset using SQL.
+- Removed duplicates, handled null values, and standardized data formats.
+- Performed exploratory data analysis to identify layoff trends across companies, industries, countries, and years.
+
+🔗 Repository:
+https://github.com/sansanju5413/SQL-Projects/tree/main/World_Layoff_Analysis
+
+---
+
+### 🏨 Hotel Booking Analysis
+- Cleaned and transformed hotel booking data using SQL.
+- Performed exploratory data analysis on 17K+ records.
+- Analyzed booking trends, cancellations, customer behavior, and market segments.
+
+🔗 Repository:
+https://github.com/sansanju5413/SQL-Projects/tree/main/Hotel-Booking-Analysis
+
 ### Excel Projects
 
 Projects involving dashboards, reports, and business analysis using Excel.
