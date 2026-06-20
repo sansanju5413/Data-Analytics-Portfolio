@@ -4,67 +4,72 @@ Welcome to my Data Analytics Portfolio.
 
 I am an aspiring Data Analyst passionate about transforming raw data into meaningful insights using SQL, Excel, Power BI, Tableau, and Python.
 
+---
+
 ## Skills
 
-* SQL (MySQL)
-* Excel
-* Power BI
-* Tableau
-* Python
-* Data Analysis
-
-## Portfolio Projects
-
-### SQL Projects
-
-Projects focused on data cleaning, querying, and analysis using SQL.
-
-## SQL Projects
-Repository:
-https://github.com/sansanju5413/SQL-Projects
-
-### 🌍 World Layoffs Data Cleaning & Analysis
-- Cleaned and standardized a global layoffs dataset using SQL.
-- Removed duplicates, handled null values, and standardized data formats.
-- Performed exploratory data analysis to identify layoff trends across companies, industries, countries, and years.
-
-🔗 Repository:
-https://github.com/sansanju5413/SQL-Projects/tree/main/World_Layoff_Analysis
+- SQL (MySQL)
+- Excel
+- Power BI
+- Tableau
+- Python
+- Data Cleaning
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Dashboard Development
 
 ---
 
-### 🏨 Hotel Booking Analysis
-- Cleaned and transformed hotel booking data using SQL.
-- Performed exploratory data analysis on 17K+ records.
-- Analyzed booking trends, cancellations, customer behavior, and market segments.
+# Portfolio Projects
+
+## SQL Projects
+
+### 1. Global Layoffs Data Cleaning & Analysis
+- Cleaned and standardized global layoffs dataset using SQL.
+- Removed duplicates, handled null values, and analyzed layoff trends.
+- Tools: SQL, MySQL
 
 🔗 Repository:
-https://github.com/sansanju5413/SQL-Projects/tree/main/Hotel-Booking-Analysis
+https://github.com/sansanju5413/SQL-Projects
 
-### Excel Projects
+---
 
-Projects involving dashboards, reports, and business analysis using Excel.
+### 2. Hotel Booking Analysis
+- Performed EDA on 17K+ hotel booking records.
+- Analyzed booking trends, cancellations, customer behavior, and market segments.
+- Tools: SQL, MySQL
 
-### Power BI Projects
+🔗 Repository:
+https://github.com/sansanju5413/SQL-Projects
 
-Interactive dashboards and business intelligence reports.
+---
 
-### Tableau Projects
+## Tableau Projects
 
-Data visualization and storytelling dashboards.
+### Hotel Booking Analytics Dashboard
+- Built an interactive Tableau dashboard with KPIs and booking trends.
+- Visualized cancellations, revenue patterns, and country-wise analysis.
+- Tools: Tableau
 
-## 1. Hotel Booking Analytics Dashboard
-Interactive Tableau Dashboard
-KPI Analysis
-Country-wise Booking Analysis
-Cancellation Analysis
-Data Visualization
-
-Repository:
+🔗 Repository:
 https://github.com/sansanju5413/Tableau-Projects
 
-## Contact
+---
 
-GitHub: https://github.com/sansanju5413
+## Power BI Projects
 
-LinkedIn: [LinkedIn profile link here](https://www.linkedin.com/in/sanju-h-s/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B6cKJ6oHHTke0%2BdiYsLbFOg%3D%3D)
+### Data Professional Survey Dashboard
+- Analyzed salary trends, programming language preferences, and work-life balance.
+- Created KPI cards, slicers, and interactive visualizations.
+- Tools: Power BI, DAX
+
+🔗 Repository:
+https://github.com/sansanju5413/PowerBI-Projects
+
+### Hotel Booking Analytics Dashboard
+- Built an interactive Power BI dashboard for hotel booking performance.
+- Analyzed bookings, ADR, lead time, revenue, cancellations, and customer segments.
+- Tools: Power BI, DAX
+
+🔗 Repository:
+https://github.com/sansanju5413/PowerBI-Projects
